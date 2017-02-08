@@ -22,7 +22,7 @@
 	 	overflow: hidden;
 	 }
 	 section:first-child h3{
-	 	background: red;
+	 	background: green;
 	 }
 	 section:last-child h3{
 	 	background: brown;
